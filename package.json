@@ -1,0 +1,11 @@
+{
+  "name": "server-http",
+  "version": "1.0.0",
+  "description": "Prueba servidor http",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Javi Muruzábal",
+  "license": "ISC"
+}
